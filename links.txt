@@ -1,0 +1,9 @@
+
+https://liubauer.medium.com/mathematics-of-kolam-folkloric-graph-theory-4b3acc79d5cb
+first basics is in this (below link)
+https://ar5iv.labs.arxiv.org/html/2307.02144
+knot theory  
+https://ar5iv.labs.arxiv.org/html/0710.1976
+graph 
+https://arxiv.org/html/2507.02874v1
+we need to study parametric L-system
