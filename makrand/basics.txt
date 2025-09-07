@@ -1,3 +1,6 @@
+daliy work is tracked in track.md
+
+
 Types of kolams 
 1 ) one where lines pass through dots 
 2 ) lines do not pass through dots
