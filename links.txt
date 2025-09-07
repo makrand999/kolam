@@ -7,3 +7,5 @@ https://ar5iv.labs.arxiv.org/html/0710.1976
 graph 
 https://arxiv.org/html/2507.02874v1
 we need to study parametric L-system
+lexicon :-
+https://www.researchgate.net/profile/Timothy-Waring-2/publication/234116828_Sequential_Encoding_of_Tamil_Kolam_Patterns/links/09e4150f560aaedbf2000000/Sequential-Encoding-of-Tamil-Kolam-Patterns.pdf
