@@ -1,0 +1,84 @@
+#Problem Statement Analysis
+ID: 25107
+Title: Develop computer programs to identify design principles behind Kolam designs and recreate them
+Organization: AICTE
+Department: Indian Knowledge Systems (IKS)
+Category: Software
+Theme: Heritage & Culture
+#Executive Summary
+This project aims to preserve and digitize the ancient Indian art form of Kolams through computer  vision and algorithmic pattern recognition. We will develop a comprehensive
+system that can analyze existing Kolam designs, extract their mathematical principles, and generate new authentic patterns.
+# literature review 
+# dataset creation 
+Collect high-quality images of traditional Kolam patterns
+Categorize by complexity, region, and occasion
+Create ground truth annotations for key features
+Minimum 500+ diverse patterns across categories
+#core algorithm development 
+-Raw Kolam Image → Preprocessing → Feature Extraction → Pattern Analysis → Rule Extraction
+Key Components:
+
+Preprocessing: Noise removal, contrast enhancement, binarization
+Dot Detection: Grid point identification using computer vision
+Line Tracing: Path following algorithms for continuous curves
+Symmetry Analysis: Rotational and reflective symmetry detection
+
+- Mathematical Modeling
+
+Grid Theory: Dot matrix analysis and spacing patterns
+Graph Theory: Representing Kolam as connected graphs
+Fractal Analysis: Self-similarity in complex designs
+Topology: Euler paths and closed curve analysis
+
+- Pattern Recognition System
+
+Feature Vectors: Encode design characteristics
+Machine Learning: Classification of design types
+Rule Extraction: Derive generative principles
+
+# Architecture
+┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
+│   Data Layer    │    │  Processing      │    │  Application    │
+│                 │    │  Engine          │    │  Layer          │
+│ • Image DB      │◄──►│ • CV Pipeline    │◄──►│ • Web App       │
+│ • Pattern Rules │    │ • ML Models      │    │ • Mobile App    │
+│ • Metadata      │    │ • Generator      │    │ • API           │
+└─────────────────┘    └──────────────────┘    └─────────────────┘
+
+Technology Stack
+
+Backend: Python (FastAPI/Flask)
+Computer Vision: OpenCV, scikit-image
+Machine Learning: TensorFlow/PyTorch, scikit-learn
+Frontend: React.js/Vue.js
+Mobile: React Native/Flutter
+Database: PostgreSQL + MongoDB (for images)
+Cloud: AWS/Azure for scalability
+
+Expected Deliverables
+Software Components
+
+Kolam Analyzer: Image analysis tool
+Pattern Generator: AI-powered design creation
+Web Application: Interactive platform
+Mobile App: Accessibility-focused application
+API: Integration endpoints
+
+Pro Tips:
+
+Focus on MVP: Get something working quickly, then improve
+Document Everything: Write as you code, not after
+Regular Commits: Show consistent progress
+Cultural Angle: This differentiates you from other tech projects
+Live Demo Ready: Practice your presentation multiple times
+
+Hackathon Presentation Strategy:
+
+Start with Culture: "Preserving 1000+ year old mathematical art"
+Show Problem: "Risk of losing traditional knowledge"
+Demo Solution: Live pattern analysis and generation
+Technical Excellence: Show code quality and architecture
+Future Impact: Educational and cultural preservation potential
+
+
+
