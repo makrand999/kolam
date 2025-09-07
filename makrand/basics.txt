@@ -1,1 +1,6 @@
-basics
+Types of kolams 
+1 ) one where lines pass through dots 
+2 ) lines do not pass through dots
+
+2) each dots should be covered or entangled in curves/line 
+  -concept of latice structure ( line should pass through each latice dot )
