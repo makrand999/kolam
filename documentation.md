@@ -5,8 +5,6 @@ pulli kolam :- lines are connected using dots
 (photos)
 sikku kolam :- lines and curves move aroudn dots ( do not cross dots )
 (photos)
-others:-free hand all drawings with symetry
-(photos)
 
 ####L-system
   (simeple L-system defination and explanation with one simple kolam example )          
