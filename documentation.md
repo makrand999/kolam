@@ -12,7 +12,7 @@ It is widely practiced in Tamil Nadu and other South Indian states, especially i
 - The arrangement of dots determines the structure of the kolam.  
 - Often used for simple geometric or floral designs.  
 - Example: Grids like 5×5, 7×7 dots are popular.  
- ![pulli kolam](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F19-dots-sikku-fusion-kolambig-kolams--73605775150777740%2F&psig=AOvVaw1wGYNbmbdnRGR6vZfJDnRu&ust=1757436755269000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi15qLQyY8DFQAAAAAdAAAAABAE)  
+ ![pulli kolam](https://scontent.fnag4-1.fna.fbcdn.net/v/t39.30808-6/471442349_971997481409555_3846218596965428532_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RB1eNQeK1RoQ7kNvwG0brXE&_nc_oc=Adk3x3DGlud4F43OE5oRz3MS0_OUBJM9fVdk8w66JF_91JC8tsY9BUd5qFoE18FKFA2jdOZRf4nvqCRvURQiN3uf&_nc_zt=23&_nc_ht=scontent.fnag4-1.fna&_nc_gid=GfSilGzRWWC4KMlIPz1lrQ&oh=00_Afbbn59rzF5MSHgmuKG1oBF7tFtAGX3NipOy9nbj6M2dZQ&oe=68C4CF92)  
 
 ### 2. **Sikku Kolam (Twisted Kolam)**  
 - Lines and curves weave around the dots without crossing them.  
