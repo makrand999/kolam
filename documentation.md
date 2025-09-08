@@ -47,17 +47,33 @@ Where:
 After a few iterations, this produces a square-like fractal that resembles a kolam pattern.  
 
 ---
+ 
+## General Ways of Coding Kolams  
 
-## General Way of Coding Kolams  
+### 1. **L-System Coding**  
+- Define an axiom, production rules, and turning angles.  
+- Use iterations to expand complexity.  
+- Common for generating **fractal-like kolams**.  
 
-1. **Define the axiom (seed):** starting symbol (e.g., `F`).  
-2. **Define production rules:** specify how each symbol expands.  
-3. **Choose the turning angle:** e.g., 90°, 45°, 60°, depending on the geometry.  
-4. **Set the number of iterations:** higher iterations = more complexity.  
-5. **Render the drawing:** interpret symbols as drawing commands.  
+### 2. **Sequential Encoding (from Waring, 2012)**  
+- Square Loop Kolams (SLK) can be represented as sequences of **gestures** (building blocks of strokes).  
+- These gestures start and end at fundamental positions between or around dots.  
+- Gestures are grouped into four sets:  
+  1. **Orthogonal gestures (O):** move around dots along grid edges.  
+  2. **Diagonal gestures (D):** move around dots at diagonal positions.  
+  3. **Transitional gestures (T):** connect orthogonal and diagonal gestures.  
+  4. **Stylistic gestures (C, H, P):** decorative variations like circles, horns, points.  
+- Each gesture is encoded with a symbol (e.g., O1, D2R, H3L).  
 
-This allows kolams to be generated programmatically while preserving their traditional structure.  
+**Example:**  
+- A simple 3×3 orthogonal kolam could be encoded as:
+- [O1 O3 O4 O1] x 4
+- Meaning one loop is drawn with gestures O1, O3, O4, O1, repeated 4 times symmetrically.  
 
+- A diagonal kolam example might be:  
+- [D4R D4R D4R D2R D2R] x 4
+- This sequential language provides a **modular way to encode and reproduce kolams**, similar to a recipe.  
+-[reference] (https://www.researchgate.net/profile/Timothy-Waring-2/publication/234116828_Sequential_Encoding_of_Tamil_Kolam_Patterns/links/09e4150f560aaedbf2000000/Sequential-Encoding-of-Tamil-Kolam-Patterns.pdf)
 ---
 
 ## Symmetries in Kolams  
