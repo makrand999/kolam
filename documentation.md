@@ -43,7 +43,7 @@ Where:
 - `-` = turn left  
 
 After a few iterations, this produces a square-like fractal that resembles a kolam pattern.  
-
+[reference](https://gauss.math.yale.edu/public_html/People/frame/Fractals/Panorama/Art/Kolams/Kolams.html)
 ---
  
 ## General Ways of Coding Kolams  
