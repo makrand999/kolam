@@ -1,4 +1,4 @@
-#kolam
+# kolam
 Kolam is a Tamil word for **Rangoli**, a traditional decorative art drawn on the ground, usually with rice flour, chalk powder, or rock powder.  
 It is widely practiced in Tamil Nadu and other South Indian states, especially in front of homes during festivals and daily rituals.  
 
