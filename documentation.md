@@ -73,7 +73,7 @@ After a few iterations, this produces a square-like fractal that resembles a kol
 - A diagonal kolam example might be:  
 - [D4R D4R D4R D2R D2R] x 4
 - This sequential language provides a **modular way to encode and reproduce kolams**, similar to a recipe.  
--[reference] (https://www.researchgate.net/profile/Timothy-Waring-2/publication/234116828_Sequential_Encoding_of_Tamil_Kolam_Patterns/links/09e4150f560aaedbf2000000/Sequential-Encoding-of-Tamil-Kolam-Patterns.pdf)
+[reference] (https://www.researchgate.net/profile/Timothy-Waring-2/publication/234116828_Sequential_Encoding_of_Tamil_Kolam_Patterns/links/09e4150f560aaedbf2000000/Sequential-Encoding-of-Tamil-Kolam-Patterns.pdf)
 ---
 
 ## Symmetries in Kolams  
