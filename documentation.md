@@ -1,6 +1,6 @@
 ####kolam 
 Kolam is tamil word for rangoli.        
-####Types of colums(on the basis of rules)
+####Types of kolams(on the basis of rules)
 pulli kolam :- lines are connected using dots
 (photos)
 sikku kolam :- lines and curves move aroudn dots ( do not cross dots )
