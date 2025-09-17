@@ -2,3 +2,5 @@ lexicom encoding---o1,o2,o3,o4,c------------for o1 i have to store data of quand
 for other std shapes either store coordinat of end point of shape or denote end point in +- signs
 --TO store custom styled templates__
 **detecting kolam in messy image ---------detecting kolams oulines or last points from centre ------croping image---detecting used area by particular colour and it's spread to detect possible colour of kolam or detecting lines by width of figures --------------------(all this methods will be only used incase of colour typical opencv methods fails to detect kolam accurately) 
+*********we can use weighted average to manipulate grayscaling to make detection in favour of our goal OR completly new filtering functions to filter colours if user provides some natural info of uploaded image like color of kolam lines or grid or color of unwanted object in frame which can potentially affect detection.
+*********
